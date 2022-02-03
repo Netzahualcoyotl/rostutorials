@@ -1,0 +1,8 @@
+#goal definition
+int32 contador
+---
+#result definition
+int32 contador_final
+---
+#feedback
+int32 numero_actual
